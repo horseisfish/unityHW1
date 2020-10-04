@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "landscape",
+"productVersion": "0.1",
+"dataUrl": "hw1 build.data.unityweb",
+"wasmCodeUrl": "hw1 build.wasm.code.unityweb",
+"wasmFrameworkUrl": "hw1 build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.10f1"
+}
